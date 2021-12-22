@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DSA Pages
 
 You can use the [editor on GitHub](https://github.com/suruclisesi/dsa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
